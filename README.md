@@ -22,3 +22,11 @@ mv src/config.json-example src/config.json
 ```sh
 npm run watch
 ```
+
+> You can build through tsc or just run build.
+
+```sh
+npm run build
+```
+
+> This will create your plain js file in ./dist/.
